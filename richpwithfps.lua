@@ -18,4 +18,5 @@ Citizen.CreateThread(function()
         SetRichPresence("ID: "..pId.." | FPS: "..fps)
         Citizen.Wait(10000) -- in MS
     end
-end)
+end
+    
